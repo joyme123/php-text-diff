@@ -1,5 +1,9 @@
 php text diff的实现, 基于最长公共子序列, 时间复杂度是O(m*n),m,n分别为两个字符串的长度。
 
+## 安装
+
+`composer require joyme123/textdiff`
+
 ## 使用
 
 ```
