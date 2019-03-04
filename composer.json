@@ -1,0 +1,16 @@
+{
+    "name": "jiang/textdiff",
+    "description": "diff two text",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiangpengfei",
+            "email": "jiangpengfei12@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"TextDiff\\": "src/"}
+    }
+}
